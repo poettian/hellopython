@@ -36,4 +36,6 @@ def person(name, age, *args, city, job)
 凡是可作用于next()函数的对象都是Iterator类型，它们表示一个惰性计算的序列；
 
 # 函数式编程
-高阶函数：[map,reduce,]
+高阶函数：[map,reduce,filter,sorted]
+
+
