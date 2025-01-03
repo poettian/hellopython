@@ -38,4 +38,6 @@ def person(name, age, *args, city, job)
 # 函数式编程
 高阶函数：[map,reduce,filter,sorted]
 
+闭包
+
 
